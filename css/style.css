@@ -10,8 +10,10 @@ h1{
     color: orange;
 }
 
-.continer{
+section{
     display: flex;
+    
+
 }
 
 .half-width{
@@ -32,4 +34,8 @@ h1{
     background-image: -o-linear-gradient(orange, tomato);
     color: white;
     font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-image:url(top);
 }
